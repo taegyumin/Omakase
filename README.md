@@ -9,6 +9,8 @@
 
 [[6.006] Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) MIT open course , as taught in Fall 2011
 
+---
+
 ## Mathematical Analysis
 [이슬비의 맛있는 해석학](https://iseulbee.com/archives/the-art-of-analysis-4ed/)
 
@@ -34,11 +36,40 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 
 [Educast 해석학개론](https://educast.com/17.330/) 설수리 (당시) 박사과정생이 찍은 해석학 영상. 개론 수준이다.
 
+---
 
 ## Markdown
-[Microsoft가 총정리한 markdown 문법](https://docs.microsoft.com/ko-kr/contribute/how-to-write-use-markdown)
+[Markdown 사용법 총정리 1 by Microsoft](https://docs.microsoft.com/ko-kr/contribute/how-to-write-use-markdown)
+
+[Markdown 사용법 총정리 2](https://heropy.blog/2017/09/30/markdown/)
+
+[Markdown 문서에서 유용한 문서 내 이동하는 링크 만드는 방법](https://m.blog.naver.com/PostView.nhn?blogId=unicone&logNo=60029160513&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
+
+---
+
+## Github
+[Github repository에 sub-directory(folder) 만드는 법](https://twoicefish-secu.tistory.com/121)
+
+---
+
+## R language
+
+[동국대 김진석 님께서 정리하신 R 교과서](http://datamining.dongguk.ac.kr/lectures/R/_book/index.html)
 
 [Rmarkdown 정리](https://tariat.tistory.com/663)
 
-[Markdown 문서에서 유용한 문서 내 이동하는 링크 만드는 방법](https://m.blog.naver.com/PostView.nhn?blogId=unicone&logNo=60029160513&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
+---
+
+## Naver 검색광고 API
+[NaverSearchAD API Documentation](http://naver.github.io/searchad-apidoc/#/guides)
+
+[NaverSearchAD Python Example](https://github.com/naver/searchad-apidoc/tree/master/python-sample)
+
+[Naver Open API](https://developers.naver.com/docs/common/openapiguide/apilist.md)
+
+[Python으로 네이버 광고 연관키워드 API 이용하기 - 블로그 포스팅](https://www.sagein.net/652)
+
+[NaverSearchAD API를 recreate한 API PowerNad](https://github.com/devkingsejong/python-PowerNad)
+
+
 
