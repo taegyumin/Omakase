@@ -1,6 +1,7 @@
 # Study_Source
 
-## Programming Language
+## Coding Algorithm
+
 [생활코딩 Open tutorials](https://opentutorials.org/course/1)
 
 [Baejoon Online Judge](http://acmicpc.net)
@@ -72,4 +73,18 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 [NaverSearchAD API를 recreate한 API PowerNad](https://github.com/devkingsejong/python-PowerNad)
 
 
+---
 
+## Linear Algebra
+
+[Strang의 선형대수학은 이 블로그와 함께](https://twlab.tistory.com/category/Fundamentals/Linear%20Algebra)
+
+---
+
+## Database and Relational DBMS
+
+[MySQL 계정 생성 관리 및 권한설정](https://2dubbing.tistory.com/13)
+
+[[WorkBench] MySQL 워크벤치로 사용자 계정 및 권한 관리하기](https://dololak.tistory.com/461)
+
+[MySQL 외부접속 가능하게 하기](https://walkingfox.tistory.com/66)
