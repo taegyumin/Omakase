@@ -124,6 +124,7 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 
 [MySQL 외부접속 가능하게 하기](https://walkingfox.tistory.com/66)
 
+---
 
 ## API 설계
 [백엔드가 이정도는 해줘야 함 시리즈 - 앱 기술스택 졀정](https://velog.io/@city7310/백엔드가-이정도는-해줘야-함-7.-어플리케이션-기술스택-결정과-Hello-World-서버-작성)
