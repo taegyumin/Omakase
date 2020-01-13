@@ -134,3 +134,9 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 [REST란? RESTful이란?](https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html)
 
 
+
+## json
+
+[Python에서 json으로 형식 변환하는 방법](https://galid1.tistory.com/405)
+
+[json dump하고 나서 decoding할 때 한글 복구 안 되는 문제 해결 방법](https://datamod.tistory.com/104)
