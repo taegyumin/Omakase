@@ -59,6 +59,19 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 
 [Git에 .ipynb 파일 업로드하기](https://blog.outsider.ne.kr/572)
 
+[뭔가 되게 사회복지기관 웹사이트처럼 생겼지만 잘 정리해둔 Git 설명서](https://backlog.com/git-tutorial/kr/intro/intro1_1.html)
+
+---
+
+## Bayesian Analysis
+
+[Rejection Sampling 간단 설명](https://m.blog.naver.com/jinis_stat/221648406160)
+
+[Importance Sampling 간단 설명](https://untitledtblog.tistory.com/135?category=823331)
+
+
+
+
 ---
 
 ## R language
@@ -110,3 +123,13 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 [[WorkBench] MySQL 워크벤치로 사용자 계정 및 권한 관리하기](https://dololak.tistory.com/461)
 
 [MySQL 외부접속 가능하게 하기](https://walkingfox.tistory.com/66)
+
+
+## API 설계
+[백엔드가 이정도는 해줘야 함 시리즈 - 앱 기술스택 졀정](https://velog.io/@city7310/백엔드가-이정도는-해줘야-함-7.-어플리케이션-기술스택-결정과-Hello-World-서버-작성)
+
+[RESTful API란?](https://brainbackdoor.tistory.com/m/53)
+
+[REST란? RESTful이란?](https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html)
+
+
