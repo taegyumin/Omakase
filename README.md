@@ -69,9 +69,6 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 
 [Importance Sampling 간단 설명](https://untitledtblog.tistory.com/135?category=823331)
 
-
-
-
 ---
 
 ## R language
@@ -126,17 +123,23 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 
 ---
 
-## API 설계
+## design API
 [백엔드가 이정도는 해줘야 함 시리즈 - 앱 기술스택 졀정](https://velog.io/@city7310/백엔드가-이정도는-해줘야-함-7.-어플리케이션-기술스택-결정과-Hello-World-서버-작성)
 
 [RESTful API란?](https://brainbackdoor.tistory.com/m/53)
 
 [REST란? RESTful이란?](https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html)
 
-
+---
 
 ## json
 
 [Python에서 json으로 형식 변환하는 방법](https://galid1.tistory.com/405)
 
 [json dump하고 나서 decoding할 때 한글 복구 안 되는 문제 해결 방법](https://datamod.tistory.com/104)
+
+---
+
+## Regular Expression, regex
+
+[정규표현식 문법 정리](https://soooprmx.com/archives/7718)
