@@ -51,6 +51,14 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 ## Github
 [Github repository에 sub-directory(folder) 만드는 법](https://twoicefish-secu.tistory.com/121)
 
+[Git에서 공식 제공하는 Git Tutorials](https://git-scm.com/book/ko/v2/Git의-기초-Git-저장소-만들기)
+
+[Git branch 병합하기](https://jeong-pro.tistory.com/m/106)
+
+[Git 명령어 정리](https://blog.outsider.ne.kr/572)
+
+[Git에 .ipynb 파일 업로드하기](https://blog.outsider.ne.kr/572)
+
 ---
 
 ## R language
@@ -78,6 +86,20 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 ## Linear Algebra
 
 [Strang의 선형대수학은 이 블로그와 함께](https://twlab.tistory.com/category/Fundamentals/Linear%20Algebra)
+
+---
+
+## crawler with python
+
+[selenium - 나만의 웹 크롤러 만들기 시리즈](https://beomi.github.io/gb-crawling/)
+
+[selenium - 문과생도 할 수 있는 웹 크롤링](https://sacko.tistory.com/15?category=643535)
+
+[selenium - 문과의 파이썬 크롤링](https://brunch.co.kr/@jk-lab/18)
+
+[beautiful_soup, scrapy 사용법](https://l0o02.github.io/2018/06/19/python-scrapy-1/)
+
+[crawler multiprocessing](https://beomi.github.io/2017/07/05/HowToMakeWebCrawler-with-Multiprocess/)
 
 ---
 
