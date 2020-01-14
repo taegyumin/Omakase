@@ -121,6 +121,8 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 
 [MySQL 외부접속 가능하게 하기](https://walkingfox.tistory.com/66)
 
+[MySQL JSON datatype 삽입](https://riptutorial.com/ko/mysql/example/10143/간단한-json-삽입)
+
 ---
 
 ## design API
