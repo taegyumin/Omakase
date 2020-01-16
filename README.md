@@ -145,3 +145,9 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 ## Regular Expression, regex
 
 [정규표현식 문법 정리](https://soooprmx.com/archives/7718)
+
+
+## Amazon Web Services
+
+[생활코딩: AWS EC2 튜토리얼](https://opentutorials.org/module/1946/11274)
+
