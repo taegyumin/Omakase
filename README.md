@@ -180,4 +180,8 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 
 [README.md에 예쁜 배너 올리는 방법](https://shields.io)
 
+---
+
+## Github blog 만들기
+[쉽고 빠르게 수준 급의 GitHub 블로그 만들기 - jekyll remote theme으로](https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html)
 
