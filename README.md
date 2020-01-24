@@ -1,5 +1,7 @@
 # Study_Source
 
+---
+
 ## Coding Algorithm
 
 [생활코딩 Open tutorials](https://opentutorials.org/course/1)
@@ -159,3 +161,22 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 [swagger 사용법](https://ndb796.tistory.com/249)
 
 [swagger 사용법 2](https://real-dongsoo7.tistory.com/58?category=716261)
+
+
+## Python 패키지 pypi에 올리는 방법
+
+[PyPI로 패키지 배포하기:내가 만든 모듈도 pip로 다운받을 수 있다!](https://blessingdev.wordpress.com/2019/05/31/pypi로-패키지-배포하기내가-만든-모듈도-pip로-다운받을/)
+
+[내가 만든 Python 라이브러리 1: nevada](https://pypi.org/project/nevada/)
+
+[참고한 패키지 1: powernad](https://github.com/devkingsejong/python-PowerNad)
+
+[참고한 패키지 2: dart_fss](https://github.com/josw123/dart-fss)
+
+[pypi 패키지 디렉토리 구성](https://code.tutsplus.com/ko/tutorials/how-to-write-your-own-python-packages--cms-26076)
+
+[Pypi 에 내가 만든 패키지 배포하면서 알게된거](https://dailyheumsi.tistory.com/122)
+
+[README.md에 예쁜 배너 올리는 방법](https://shields.io)
+
+
