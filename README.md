@@ -178,7 +178,9 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 
 [Pypi 에 내가 만든 패키지 배포하면서 알게된거](https://dailyheumsi.tistory.com/122)
 
-[README.md에 예쁜 배너 올리는 방법](https://shields.io)
+[shield.io: README.md에 예쁜 배너 올리는 방법](https://shields.io)
+
+[shield IO 사용법](https://velog.io/@loakick/Shield-IO-사용법-iojyndy4pi)
 
 ---
 
