@@ -67,6 +67,8 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 
 [뭔가 되게 사회복지기관 웹사이트처럼 생겼지만 잘 정리해둔 Git 설명서](https://backlog.com/git-tutorial/kr/intro/intro1_1.html)
 
+[대학생은 깃허브 PRO를 무료로 이용할 수 있다](https://gongmeda.tistory.com/4)
+
 ---
 
 ## Bayesian Analysis
@@ -193,3 +195,4 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 ## Github blog 만들기
 [쉽고 빠르게 수준 급의 GitHub 블로그 만들기 - jekyll remote theme으로](https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html)
 
+[재욱이의 Bootstrap 가이드](https://blog.lockcept.kr/69?category=1073308)
