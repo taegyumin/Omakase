@@ -119,11 +119,13 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 
 ---
 
-## Database and Relational DBMS
+## Mysql (Relational DBMS)
 
 [MySQL 계정 생성 관리 및 권한설정](https://2dubbing.tistory.com/13)
 
 [[WorkBench] MySQL 워크벤치로 사용자 계정 및 권한 관리하기](https://dololak.tistory.com/461)
+
+[SQL문법 총정리](http://tcpschool.com/mysql/intro)
 
 [MySQL 외부접속 가능하게 하기](https://walkingfox.tistory.com/66)
 
