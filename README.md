@@ -76,6 +76,13 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 
 [재욱이의 Bootstrap 가이드](https://blog.lockcept.kr/69?category=1073308)
 
+### Git 버전관리 전략: Gitflow
+[git-flow](https://github.com/nvie/gitflow)
+
+[GIT을 기반으로 한 프로젝트 개발프로세스](https://gist.github.com/ihoneymon/a28138ee5309c73e94f9)
+
+
+
 ---
 
 ## Bayesian Analysis
