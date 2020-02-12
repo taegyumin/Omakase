@@ -84,6 +84,10 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 ### .gitignore
 [.gitignore 설정하기](https://gmlwjd9405.github.io/2017/10/06/make-gitignore-file.html)
 
+[.gitignore을 왜 사용할까?](https://lsjsj92.tistory.com/566)
+
+
+
 
 
 ---
@@ -152,7 +156,7 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 
 ---
 
-## design API
+## RESTful API
 [백엔드가 이정도는 해줘야 함 시리즈 - 앱 기술스택 졀정](https://velog.io/@city7310/백엔드가-이정도는-해줘야-함-7.-어플리케이션-기술스택-결정과-Hello-World-서버-작성)
 
 [RESTful API란?](https://brainbackdoor.tistory.com/m/53)
@@ -160,6 +164,12 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 [REST란? RESTful이란?](https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html)
 
 [GET과 POST의 차이](https://blog.outsider.ne.kr/312)
+
+[RESTful API with KAKAO](https://www.opentutorials.org/module/4034/25000)
+
+[REST API document](https://doc.uliege.cytomine.org/display/ALGODOC/Rest+API+documentation)
+
+
 
 
 ---
@@ -188,6 +198,10 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 
 [생활코딩: AWS EC2 튜토리얼](https://opentutorials.org/module/1946/11274)
 
+[국내 클라우드 호스팅 서비스 비교](https://blog.lael.be/post/44)
+
+
+
 ---
 
 ## swagger
@@ -200,17 +214,19 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 
 ## Python 패키지 pypi에 올리는 방법
 
-[PyPI로 패키지 배포하기:내가 만든 모듈도 pip로 다운받을 수 있다!](https://blessingdev.wordpress.com/2019/05/31/pypi로-패키지-배포하기내가-만든-모듈도-pip로-다운받을/)
+[PyPI로 Python package 배포하기 #1: 내가 만든 모듈도 pip로 다운받을 수 있다!](https://blessingdev.wordpress.com/2019/05/31/pypi로-패키지-배포하기내가-만든-모듈도-pip로-다운받을/)
 
-[내가 만든 Python 라이브러리 1: nevada](https://pypi.org/project/nevada/)
+[PyPI로 Python package 배포하기 #2](https://www.holaxprogramming.com/2017/06/28/python-project-structures/)
 
-[참고한 패키지 1: powernad](https://github.com/devkingsejong/python-PowerNad)
+[PyPI package 구성](https://code.tutsplus.com/ko/tutorials/how-to-write-your-own-python-packages--cms-26076)
 
-[참고한 패키지 2: dart_fss](https://github.com/josw123/dart-fss)
+[PyPI에 내가 만든 패키지 배포하면서 알게된 거](https://dailyheumsi.tistory.com/122)
 
-[pypi 패키지 디렉토리 구성](https://code.tutsplus.com/ko/tutorials/how-to-write-your-own-python-packages--cms-26076)
+[library which I made #1: nevada](https://pypi.org/project/nevada/)
 
-[Pypi 에 내가 만든 패키지 배포하면서 알게된거](https://dailyheumsi.tistory.com/122)
+[reference library #1: powernad](https://github.com/devkingsejong/python-PowerNad)
+
+[reference library #2: dart_fss](https://github.com/josw123/dart-fss)
 
 [shield.io: README.md에 예쁜 배너 올리는 방법](https://shields.io)
 
@@ -218,7 +234,7 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 
 ---
 
-## Django
+## Django Framework
 
 [장고 공식 튜토리얼](https://developer.mozilla.org/ko/docs/Learn/Server-side/Django/skeleton_website)
 
@@ -229,6 +245,15 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 [Django의 개발 방식 MTV패턴](https://revidream.tistory.com/16)
 
 [[Django] 실시간 채팅 - Channels 튜토리얼 (2)](https://victorydntmd.tistory.com/262?category=703021)
+
+[Django App과 MySQL 연동하기](https://nachwon.github.io/database-mysql/)
+
+
+---
+## Spring Framework
+[[SpringMVC] Spring MVC Framework란](https://gmlwjd9405.github.io/2018/12/20/spring-mvc-framework.html)
+
+
 
 ---
 
@@ -243,6 +268,24 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 
 [Python으로 웹 정보 주고 받기](https://python.bakyeono.net/chapter-11-5.html#1151-요청과-응답)
 
+---
 
+## LaTeX
+[TeX 기본 문법](https://en.wikipedia.org/wiki/Help:Displaying_a_formula#Integrals)
+
+[TeX Punctuation](https://zetawiki.com/wiki/TeX_특수문자)
+
+[LaTeX Line and Page Breaking](http://www.personal.ceu.hu/tex/breaking.htm#linebreak)
 
 ---
+
+## Web Programming
+[Web에 대한 큰 그림](https://hpitos.tistory.com/10)
+
+[Web 서비스 개요](https://datascienceschool.net/view-notebook/f9b09998601441f4a7026e62353cf751/)
+
+---
+## Windows 작업 스케쥴러
+
+[Windows 작업 스케쥴러 이용하기](https://pastimelife.com/1449)
+
