@@ -154,6 +154,10 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 
 [MySQL JSON datatype 삽입](https://riptutorial.com/ko/mysql/example/10143/간단한-json-삽입)
 
+[참조 무결성을 무시하고 테이블 수정하기](https://blog.naver.com/parkjy76/30109075963)
+
+
+
 ---
 
 ## RESTful API
