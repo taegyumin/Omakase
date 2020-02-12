@@ -2,7 +2,7 @@
 
 ---
 
-## Coding Algorithm
+## Algorithm
 
 [생활코딩 Open tutorials](https://opentutorials.org/course/1)
 
@@ -81,6 +81,9 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 
 [GIT을 기반으로 한 프로젝트 개발프로세스](https://gist.github.com/ihoneymon/a28138ee5309c73e94f9)
 
+### .gitignore
+[.gitignore 설정하기](https://gmlwjd9405.github.io/2017/10/06/make-gitignore-file.html)
+
 
 
 ---
@@ -156,6 +159,15 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 
 [REST란? RESTful이란?](https://gmlwjd9405.github.io/2018/09/21/rest-and-restful.html)
 
+[GET과 POST의 차이](https://blog.outsider.ne.kr/312)
+
+
+---
+
+## FileZilla
+
+[FileZilla FTP 사용법](https://m.blog.naver.com/PostView.nhn?blogId=anysecure3&logNo=220682941990&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
+
 ---
 
 ## json
@@ -203,5 +215,34 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 [shield.io: README.md에 예쁜 배너 올리는 방법](https://shields.io)
 
 [shield IO 사용법](https://velog.io/@loakick/Shield-IO-사용법-iojyndy4pi)
+
+---
+
+## Django
+
+[장고 공식 튜토리얼](https://developer.mozilla.org/ko/docs/Learn/Server-side/Django/skeleton_website)
+
+[예시 코드가 있는 장고 튜토리얼 포스팅](https://victorydntmd.tistory.com/262?category=703021)
+
+[장고 튜토리얼](https://wikidocs.net/9648)
+
+[Django의 개발 방식 MTV패턴](https://revidream.tistory.com/16)
+
+[[Django] 실시간 채팅 - Channels 튜토리얼 (2)](https://victorydntmd.tistory.com/262?category=703021)
+
+---
+
+## Punctuation
+
+[키보드에 있는 문자, 뭐라고 읽으십니까?](https://kldp.org/node/39698)
+
+---
+
+## Python
+[Python 3에서 함수의 키워드 인자 강제와 주석문](https://blog.hannal.com/2015/03/keyword-only-arguments_and_annotations_for_python3/)
+
+[Python으로 웹 정보 주고 받기](https://python.bakyeono.net/chapter-11-5.html#1151-요청과-응답)
+
+
 
 ---
