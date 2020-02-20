@@ -174,3 +174,16 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 
 ## Homebrew
 [맥에 Homebrew 설치하기](https://brew.sh/index_ko)
+
+## Jupyter notebook
+[Jupyter notebook 기본적인 사용방법](https://hun0345.tistory.com/12)
+
+## Optimization Programming
+[Google OR Tools](https://developers.google.com/optimization)
+
+## Swift
+[Best 21 iOS open source App](https://medium.mybridge.co/21-amazing-open-source-ios-apps-written-in-swift-5e835afee98e)
+
+## Mosel, Xpress-MP
+[Mosel Syntax: Officially offered Document](https://www.maths.ed.ac.uk/hall/Xpress/FICO_Docs/mosel/mosel_lang/dhtml/moselreflang.html)
+
