@@ -172,6 +172,8 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 
 [안드로이드 오픈소스 사이트 총정리](https://coding-factory.tistory.com/209)
 
+[20+ Awesome Open-Source Android Apps To Boost Your Development Skills](https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4)
+
 ## Homebrew
 [맥에 Homebrew 설치하기](https://brew.sh/index_ko)
 
