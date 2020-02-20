@@ -125,7 +125,9 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 [swagger 사용법](https://ndb796.tistory.com/249) <br>
 [swagger 사용법 2](https://real-dongsoo7.tistory.com/58?category=716261) <br>
 
+
 ## Python 패키지 pypi에 올리는 방법
+### Python,python,package,pypi,PyPI
 [PyPI로 Python package 배포하기 #1: 내가 만든 모듈도 pip로 다운받을 수 있다!](https://blessingdev.wordpress.com/2019/05/31/pypi로-패키지-배포하기내가-만든-모듈도-pip로-다운받을/) <br>
 [PyPI로 Python package 배포하기 #2](https://www.holaxprogramming.com/2017/06/28/python-project-structures/) <br>
 [PyPI package 구성](https://code.tutsplus.com/ko/tutorials/how-to-write-your-own-python-packages--cms-26076) <br>
@@ -135,6 +137,7 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 [reference library #2: dart_fss](https://github.com/josw123/dart-fss) <br>
 [shield.io: README.md에 예쁜 배너 올리는 방법](https://shields.io) <br>
 [shield IO 사용법](https://velog.io/@loakick/Shield-IO-사용법-iojyndy4pi) <br>
+[[Python]파이썬 패키지 배포하기](https://pj9039.tistory.com/m/4)
 
 
 ## Django Framework
