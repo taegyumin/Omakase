@@ -89,7 +89,8 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 - [SQL문법 총정리](http://tcpschool.com/mysql/intro) 
 - [MySQL 외부접속 가능하게 하기](https://walkingfox.tistory.com/66) 
 - [MySQL JSON datatype 삽입](https://riptutorial.com/ko/mysql/example/10143/간단한-json-삽입) 
-- [참조 무결성을 무시하고 테이블 수정하기](https://blog.naver.com/parkjy76/30109075963) 
+- [참조 무결성을 무시하고 테이블 수정하기](https://blog.naver.com/parkjy76/30109075963)
+- [Homebrew를 이용하여 MYSQL 설치 - MAC](https://devyurim.github.io/data%20base/mysql/2018/08/13/mysql-1.html)
 
 ## RESTful API
 - [백엔드가 이정도는 해줘야 함 시리즈 - 앱 기술스택 졀정](https://velog.io/@city7310/백엔드가-이정도는-해줘야-함-7.-어플리케이션-기술스택-결정과-Hello-World-서버-작성) 
@@ -191,4 +192,7 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 - [cd 관련 명령어](https://shaeod.tistory.com/930)
 
 ## MongoDB
-[MongoDB 기본 개념과 설치](https://poiemaweb.com/mongdb-basics)
+- [MongoDB 기본 개념과 설치](https://poiemaweb.com/mongdb-basics)
+- [맥(MAC)에서 몽고DB 설치하기 (HOW TO INSTALL MONGODB ON MAC)](http://semantics.kr/맥mac에서-몽고db-설치하기-how-to-install-mongodb-on-mac/)
+- [맥에서 MongoDB 설치하기 (자료 모음)](https://curioso365.tistory.com/122)
+- [MongoDB Client 도구 Compass 설치](https://curioso365.tistory.com/122)
