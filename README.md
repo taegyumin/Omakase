@@ -186,6 +186,16 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 ## Tensorflow
 - [Tensorflow1 설치 및 기본 사용법](https://zvi975.tistory.com/65)
 
+## Anaconda
+- [Mac OS가 zsh가 default라 생기는 실행 에러 1](https://antilibrary.org/2098)
+- [Mac OS가 zsh가 default라 생기는 실행 에러 2](https://medium.com/@sumitmenon/how-to-get-anaconda-to-work-with-oh-my-zsh-on-mac-os-x-7c1c7247d896)
+- [Mac OS가 zsh가 default라 생기는 실행 에러 3](https://stackoverflow.com/questions/54502718/cant-run-anaconda-in-macos-terminal)
+- [Mac OS가 zsh가 default라 생기는 실행 에러 4](https://stackoverflow.com/questions/40370467/anaconda-not-found-in-zsh)
+- [Deep Learning 개발환경 기본 세팅 1](https://www.wikihow.com/Set-Up-a-Python-Environment-for-Deep-Learning)
+- [Deep Learning 개발환경 기본 세팅 2](https://towardsdatascience.com/setup-an-environment-for-machine-learning-and-deep-learning-with-anaconda-in-windows-5d7134a3db10)
+- [Anaconda 환경 설치](https://shpark610.tistory.com/154)
+- [Anaconda 가상환경 설정하기](https://uhou.tistory.com/157)
+
 ## Linux
 - [Mac에서 Terminal로 SSH 연결하기](https://eunguru.tistory.com/122)
 - [리눅스 초보자가 익혀야 할 12가지 명령어](http://www.ciokorea.com/news/29239)
@@ -196,3 +206,7 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 - [맥(MAC)에서 몽고DB 설치하기 (HOW TO INSTALL MONGODB ON MAC)](http://semantics.kr/맥mac에서-몽고db-설치하기-how-to-install-mongodb-on-mac/)
 - [맥에서 MongoDB 설치하기 (자료 모음)](https://curioso365.tistory.com/122)
 - [MongoDB Client 도구 Compass 설치](https://curioso365.tistory.com/122)
+
+## Mac OS
+- [Mac OS 바탕화면에 바로가기 아이콘 만들기](https://m.blog.naver.com/PostView.nhn?blogId=artismart&logNo=221234545219&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
+- [zsh 설치하기](https://thdev.tech/mac/2016/05/01/Mac-ZSH-Install/)
