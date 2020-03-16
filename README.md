@@ -53,6 +53,7 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 ### Git 버전관리 전략: Gitflow
 - [git-flow](https://github.com/nvie/gitflow) 
 - [GIT을 기반으로 한 프로젝트 개발프로세스](https://gist.github.com/ihoneymon/a28138ee5309c73e94f9) 
+- [gitflow vs github flow vs gitlab flow](https://ujuc.github.io/2015/12/16/git-flow-github-flow-gitlab-flow/)
 
 ### .gitignore
 - [.gitignore 설정하기](https://gmlwjd9405.github.io/2017/10/06/make-gitignore-file.html) 
@@ -210,3 +211,10 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 ## Mac OS
 - [Mac OS 바탕화면에 바로가기 아이콘 만들기](https://m.blog.naver.com/PostView.nhn?blogId=artismart&logNo=221234545219&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
 - [zsh 설치하기](https://thdev.tech/mac/2016/05/01/Mac-ZSH-Install/)
+
+## Toss 토스 API
+[결제 연동 가이드](https://tossdev.github.io/api.html)
+
+## Kakao Bank
+[Day1, 3-5. 오픈소스 데이터베이스, 은행 서비스에 첫발을 내밀다.](https://tv.naver.com/v/2293649#comment_focus)
+[카카오뱅크는 어떻게 MySQL로 데이터 유실을 막았을까](https://byline.network/2017/10/17-6/)
