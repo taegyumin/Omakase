@@ -1,14 +1,21 @@
 # study_source
 
+
 ## Text Editor
 ### Macdown
 - [homebrew를 이용한 Macdown 설치법](https://steemit.com/kr/@sweetcoffein2/mac-macdown)
+
+
+## Linear Algebra
+- [Strang의 선형대수학은 이 블로그와 함께](https://twlab.tistory.com/category/Fundamentals/Linear%20Algebra) 선형대수학, 공학수학1 강좌를 수강했을 당시, 많이 들락날락했던 블로그.
+
 
 ## Algorithm
 - [생활코딩 Open tutorials](https://opentutorials.org/course/1) 
 - [Baejoon Online Judge](http://acmicpc.net) 
 - [Algospot](http://algospot.com) 
-- [[6.006] Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) MIT open course , as taught in Fall 2011  
+- [[6.006] Introduction to Algorithms](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/) MIT open course , as taught in Fall 2011
+
 
 ## Mathematical Analysis
 - [이슬비의 맛있는 해석학](https://iseulbee.com/archives/the-art-of-analysis-4ed/)  
@@ -28,12 +35,14 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 - [Educast 해석학개론](https://educast.com/17.330/)
 설수리 (당시) 박사과정생이 찍은 해석학 영상. 개론 수준이다.  
 
+
 ## Markdown
 - [Markdown 사용법 총정리 1 by Microsoft](https://docs.microsoft.com/ko-kr/contribute/how-to-write-use-markdown) 
 - [Markdown 사용법 총정리 2](https://heropy.blog/2017/09/30/markdown/) 
 - [Markdown 사용법 총정리 3](https://gist.github.com/ihoneymon/652be052a0727ad59601) 
 - [Markdown 문서에서 유용한 문서 내 이동하는 링크 만드는 방법](https://m.blog.naver.com/PostView.nhn?blogId=unicone&logNo=60029160513&proxyReferer=https%3A%2F%2Fwww.google.com%2F) 
 - [Markdown & html에서 Image size 조절하는 방법](https://blog.yena.io/studynote/2017/11/23/Github-resize-image.html) 
+
 
 ## Git & Github
 - [Github repository에 sub-directory(folder) 만드는 법](https://twoicefish-secu.tistory.com/121) 
@@ -44,28 +53,35 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 - [Git에 .ipynb 파일 업로드하기](https://blog.outsider.ne.kr/572) 
 - [뭔가 되게 사회복지기관 웹사이트처럼 생겼지만 잘 정리해둔 Git 설명서](https://backlog.com/git-tutorial/kr/intro/intro1_1.html) 
 - [대학생은 깃허브 PRO를 무료로 이용할 수 있다](https://gongmeda.tistory.com/4) 
-- [Github Terminology](https://tagilog.tistory.com/588) 
+- [Github Terminology](https://tagilog.tistory.com/588)
+- [Git을 개념적으로 이해하기 참 좋은 비디오](https://youtu.be/PiQAwOxl52E) 
+
 
 ### Github blog 만들기
 - [쉽고 빠르게 수준 급의 GitHub 블로그 만들기 - jekyll remote theme으로](https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html) 
 [재욱이의 Bootstrap 가이드](https://blog.lockcept.kr/69?category=1073308) 
+
 
 ### Git 버전관리 전략: Gitflow
 - [git-flow](https://github.com/nvie/gitflow) 
 - [GIT을 기반으로 한 프로젝트 개발프로세스](https://gist.github.com/ihoneymon/a28138ee5309c73e94f9) 
 - [gitflow vs github flow vs gitlab flow](https://ujuc.github.io/2015/12/16/git-flow-github-flow-gitlab-flow/)
 
+
 ### .gitignore
 - [.gitignore 설정하기](https://gmlwjd9405.github.io/2017/10/06/make-gitignore-file.html) 
 - [.gitignore을 왜 사용할까?](https://lsjsj92.tistory.com/566) 
+
 
 ## Bayesian Statistics
 - [Rejection Sampling 간단 설명](https://m.blog.naver.com/jinis_stat/221648406160) 
 - [Importance Sampling 간단 설명](https://untitledtblog.tistory.com/135?category=823331) 
 
+
 ## R language
 - [동국대 김진석 님께서 정리하신 R 교과서](http://datamining.dongguk.ac.kr/lectures/R/_book/index.html) 
 - [Rmarkdown 정리](https://tariat.tistory.com/663) 
+
 
 ## Naver 검색광고 API
 - [NaverSearchAD API Documentation](http://naver.github.io/searchad-apidoc/#/guides) 
@@ -74,8 +90,6 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 - [Python으로 네이버 광고 연관키워드 API 이용하기 - 블로그 포스팅](https://www.sagein.net/652) 
 - [NaverSearchAD API를 recreate한 API PowerNad](https://github.com/devkingsejong/python-PowerNad) 
 
-## Linear Algebra
-- [Strang의 선형대수학은 이 블로그와 함께](https://twlab.tistory.com/category/Fundamentals/Linear%20Algebra) 
 
 ## crawler with python
 - [selenium - 나만의 웹 크롤러 만들기 시리즈](https://beomi.github.io/gb-crawling/) 
@@ -83,6 +97,7 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 [selenium - 문과의 파이썬 크롤링](https://brunch.co.kr/@jk-lab/18) 
 - [beautiful_soup, scrapy 사용법](https://l0o02.github.io/2018/06/19/python-scrapy-1/) 
 - [crawler multiprocessing](https://beomi.github.io/2017/07/05/HowToMakeWebCrawler-with-Multiprocess/) 
+
 
 ## Mysql (Relational DBMS)
 - [MySQL 계정 생성 관리 및 권한설정](https://2dubbing.tistory.com/13) 
@@ -92,6 +107,8 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 - [MySQL JSON datatype 삽입](https://riptutorial.com/ko/mysql/example/10143/간단한-json-삽입) 
 - [참조 무결성을 무시하고 테이블 수정하기](https://blog.naver.com/parkjy76/30109075963)
 - [Homebrew를 이용하여 MYSQL 설치 - MAC](https://devyurim.github.io/data%20base/mysql/2018/08/13/mysql-1.html)
+- [[프로그래머스] SQL 문제 모음집](https://programmers.co.kr/learn/challenges?tab=sql_practice_kit) 하루 날 잡아서 다 풀어봤는데, 기억 안 나는 문법 복습하기엔 괜찮은 문제들이다!
+
 
 ## RESTful API
 - [백엔드가 이정도는 해줘야 함 시리즈 - 앱 기술스택 졀정](https://velog.io/@city7310/백엔드가-이정도는-해줘야-함-7.-어플리케이션-기술스택-결정과-Hello-World-서버-작성) 
@@ -100,20 +117,26 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 - [GET과 POST의 차이](https://blog.outsider.ne.kr/312) 
 - [RESTful API with KAKAO](https://www.opentutorials.org/module/4034/25000) 
 - [REST API document](https://doc.uliege.cytomine.org/display/ALGODOC/Rest+API+documentation) 
+- [그런 REST API로 괜찮은가](https://www.youtube.com/watch?v=RP_f5dMoHFc) REST API를 만들면서 이 'REST'라는 게 정확히 뭘까 궁금했는데, REST API의 학술적 정의와 역사에 대해 잘 정리해주신 콘텐츠다. 내가 만든 API는 엄밀히 말하면 REST API가 아니었다. HTTP API? 느슨한 REST API 정도...
+
 
 ## FileZilla
 - [FileZilla FTP 사용법](https://m.blog.naver.com/PostView.nhn?blogId=anysecure3&logNo=220682941990&proxyReferer=https%3A%2F%2Fwww.google.com%2F) 
+
 
 ## json
 - [Python에서 json으로 형식 변환하는 방법](https://galid1.tistory.com/405) 
 - [json dump하고 나서 decoding할 때 한글 복구 안 되는 문제 해결 방법](https://datamod.tistory.com/104) 
 
+
 ## Regular Expression, regex
 - [정규표현식 문법 정리](https://soooprmx.com/archives/7718) 
+
 
 ## Amazon Web Services
 - [생활코딩: AWS EC2 튜토리얼](https://opentutorials.org/module/1946/11274) 
 - [국내 클라우드 호스팅 서비스 비교](https://blog.lael.be/post/44) 
+
 
 ## swagger
 - [swagger 사용법](https://ndb796.tistory.com/249)
@@ -142,50 +165,64 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 - [[Django] 실시간 채팅 - Channels 튜토리얼 (2)](https://victorydntmd.tistory.com/262?category=703021)
 [Django App과 MySQL 연동하기](https://nachwon.github.io/database-mysql/)
 
+
 ## Spring Framework
 - [[SpringMVC] Spring MVC Framework란](https://gmlwjd9405.github.io/2018/12/20/spring-mvc-framework.html)
+
 
 ## Punctuation
 - [키보드에 있는 문자, 뭐라고 읽으십니까?](https://kldp.org/node/39698)
 
+
 ## Python
 - [Python 3에서 함수의 키워드 인자 강제와 주석문](https://blog.hannal.com/2015/03/keyword-only-arguments_and_annotations_for_python3/)
 - [Python으로 웹 정보 주고 받기](https://python.bakyeono.net/chapter-11-5.html#1151-요청과-응답)
+
 
 ## LaTeX
 - [TeX 기본 문법](https://en.wikipedia.org/wiki/Help:Displaying_a_formula#Integrals)
 - [TeX Punctuation](https://zetawiki.com/wiki/TeX_특수문자)
 - [LaTeX Line and Page Breaking](http://www.personal.ceu.hu/tex/breaking.htm#linebreak)
 
+
 ## Web Programming
 - [Web에 대한 큰 그림](https://hpitos.tistory.com/10)
 - [Web 서비스 개요](https://datascienceschool.net/view-notebook/f9b09998601441f4a7026e62353cf751/)
 
+
 ## Windows 작업 스케쥴러
 - [Windows 작업 스케쥴러 이용하기](https://pastimelife.com/1449) 
+
 
 ## Android
 - [publish Android Developer 안드로이드 개발자 등록하는 방법](https://dev-yakuza.github.io/ko/react-native/android-enroll-google-play-developer/)
 - [안드로이드 오픈소스 사이트 총정리](https://coding-factory.tistory.com/209)
 - [20+ Awesome Open-Source Android Apps To Boost Your Development Skills](https://blog.aritraroy.in/20-awesome-open-source-android-apps-to-boost-your-development-skills-b62832cf0fa4)
 
+
 ## Homebrew
 - [맥에 Homebrew 설치하기](https://brew.sh/index_ko)
+
 
 ## Jupyter notebook
 - [Jupyter notebook 기본적인 사용방법](https://hun0345.tistory.com/12)
 
+
 ## Optimization Programming
 - [Google OR Tools](https://developers.google.com/optimization)
+
 
 ## Swift
 - [Best 21 iOS open source App](https://medium.mybridge.co/21-amazing-open-source-ios-apps-written-in-swift-5e835afee98e)
 
+
 ## Mosel, Xpress-MP
 - [Mosel Syntax: Officially offered Document](https://www.maths.ed.ac.uk/hall/Xpress/FICO_Docs/mosel/mosel_lang/dhtml/moselreflang.html)
 
+
 ## Tensorflow
 - [Tensorflow1 설치 및 기본 사용법](https://zvi975.tistory.com/65)
+
 
 ## Anaconda
 - [Mac OS가 zsh가 default라 생기는 실행 에러 1](https://antilibrary.org/2098)
@@ -197,10 +234,12 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 - [Anaconda 환경 설치](https://shpark610.tistory.com/154)
 - [Anaconda 가상환경 설정하기](https://uhou.tistory.com/157)
 
+
 ## Linux
 - [Mac에서 Terminal로 SSH 연결하기](https://eunguru.tistory.com/122)
 - [리눅스 초보자가 익혀야 할 12가지 명령어](http://www.ciokorea.com/news/29239)
 - [cd 관련 명령어](https://shaeod.tistory.com/930)
+
 
 ## MongoDB
 - [MongoDB 기본 개념과 설치](https://poiemaweb.com/mongdb-basics)
@@ -208,12 +247,15 @@ Calculus의 Gradient Vector, Curl 등의 개념에 대해 잘 설명해주는 �
 - [맥에서 MongoDB 설치하기 (자료 모음)](https://curioso365.tistory.com/122)
 - [MongoDB Client 도구 Compass 설치](https://curioso365.tistory.com/122)
 
+
 ## Mac OS
 - [Mac OS 바탕화면에 바로가기 아이콘 만들기](https://m.blog.naver.com/PostView.nhn?blogId=artismart&logNo=221234545219&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
 - [zsh 설치하기](https://thdev.tech/mac/2016/05/01/Mac-ZSH-Install/)
 
+
 ## Toss 토스 API
 [결제 연동 가이드](https://tossdev.github.io/api.html)
+
 
 ## Kakao Bank
 [Day1, 3-5. 오픈소스 데이터베이스, 은행 서비스에 첫발을 내밀다.](https://tv.naver.com/v/2293649#comment_focus)
