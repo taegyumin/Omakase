@@ -1,4 +1,4 @@
-# study_source
+# Omakase (study_source)
 
 
 ## Text Editor
