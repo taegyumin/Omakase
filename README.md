@@ -179,9 +179,17 @@
 
 
 ## Toss 토스 API
-[결제 연동 가이드](https://tossdev.github.io/api.html)
+- [결제 연동 가이드](https://tossdev.github.io/api.html)
 
 
 ## Kakao Bank
-[Day1, 3-5. 오픈소스 데이터베이스, 은행 서비스에 첫발을 내밀다.](https://tv.naver.com/v/2293649#comment_focus)
-[카카오뱅크는 어떻게 MySQL로 데이터 유실을 막았을까](https://byline.network/2017/10/17-6/)
+- [Day1, 3-5. 오픈소스 데이터베이스, 은행 서비스에 첫발을 내밀다.](https://tv.naver.com/v/2293649#comment_focus)
+- [카카오뱅크는 어떻게 MySQL로 데이터 유실을 막았을까](https://byline.network/2017/10/17-6/)
+
+
+## vi, vim
+- [vi 명령어 정리](https://blockdmask.tistory.com/25)
+
+## 배포 자동화
+- [백엔드가 이정도는 해줘야 함 - 11. 배포 자동화](https://velog.io/@city7310/백엔드가-이정도는-해줘야-함-11.-배포-자동화)
+- [CI (Continuous Integration) 이란?](http://www.nextree.co.kr/p10799/)
