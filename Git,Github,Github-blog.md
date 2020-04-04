@@ -15,7 +15,8 @@
 
 ## Github-blog 만들기
 - [쉽고 빠르게 수준 급의 GitHub 블로그 만들기 - jekyll remote theme으로](https://dreamgonfly.github.io/2018/01/27/jekyll-remote-theme.html) 
-[재욱이의 Bootstrap 가이드](https://blog.lockcept.kr/69?category=1073308) 
+[재욱이의 Bootstrap 가이드](https://blog.lockcept.kr/69?category=1073308)
+- [Jekyll 기본 테마로 Github 블로그 만들기](https://jetalog.net/86?category=808871)
 
 
 ## Git 버전관리 전략: Gitflow
