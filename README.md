@@ -3,6 +3,7 @@
 - [Git,Github,Github-blog](https://github.com/taegyumin/Omakase/blob/master/Git%2CGithub%2CGithub-blog.md)
 - [Math](https://github.com/taegyumin/Omakase/blob/master/Math.md)
 - [Database](https://github.com/taegyumin/Omakase/blob/master/Database.md)
+- [Django](https://github.com/taegyumin/Omakase/blob/master/Django.md)
 
 
 ## Text Editor
@@ -88,15 +89,6 @@
 - [shield.io: README.md에 예쁜 배너 올리는 방법](https://shields.io)
 - [shield IO 사용법](https://velog.io/@loakick/Shield-IO-사용법-iojyndy4pi)
 - [[Python]파이썬 패키지 배포하기](https://pj9039.tistory.com/m/4)
-
-
-## Django Framework
-- [장고 공식 튜토리얼](https://developer.mozilla.org/ko/docs/Learn/Server-side/Django/skeleton_website)
-- [예시 코드가 있는 장고 튜토리얼 포스팅](https://victorydntmd.tistory.com/262?category=703021)
-- [장고 튜토리얼](https://wikidocs.net/9648)
-[Django의 개발 방식 MTV패턴](https://revidream.tistory.com/16)
-- [[Django] 실시간 채팅 - Channels 튜토리얼 (2)](https://victorydntmd.tistory.com/262?category=703021)
-[Django App과 MySQL 연동하기](https://nachwon.github.io/database-mysql/)
 
 
 ## Spring Framework
