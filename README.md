@@ -193,3 +193,6 @@
 ## 배포 자동화
 - [백엔드가 이정도는 해줘야 함 - 11. 배포 자동화](https://velog.io/@city7310/백엔드가-이정도는-해줘야-함-11.-배포-자동화)
 - [CI (Continuous Integration) 이란?](http://www.nextree.co.kr/p10799/)
+
+## SSL 인증서
+- [gogotssl: 제일 싸다](https://www.gogetssl.com)
