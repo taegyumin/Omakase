@@ -196,3 +196,7 @@
 
 ## SSL 인증서
 - [gogotssl: 제일 싸다](https://www.gogetssl.com)
+
+
+## Ruby On Rails
+- [RoR 공식 가이드](https://rubykr.github.io/rails_guides/active_record_querying.html)
