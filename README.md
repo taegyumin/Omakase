@@ -217,3 +217,6 @@
 ## Web App Server 구축
 - [CentOS 7에서 Python WAS 구축하기 (Django, Nginx, Gunicorn)](http://dveamer.github.io/backend/PythonWAS.html)
 
+
+## 백엔드 아키텍처
+- [Backend Architectures](https://gist.github.com/ngocphamm/5849994)
