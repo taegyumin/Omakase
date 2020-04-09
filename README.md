@@ -69,8 +69,7 @@
 
 ## Amazon Web Services
 - [생활코딩: AWS EC2 튜토리얼](https://opentutorials.org/module/1946/11274) 
-- [국내 클라우드 호스팅 서비스 비교](https://blog.lael.be/post/44) 
-
+- [국내 클라우드 호스팅 서비스 비교](https://blog.lael.be/post/44)
 
 ## swagger
 - [swagger 사용법](https://ndb796.tistory.com/249)
@@ -213,4 +212,8 @@
 - [fail2ban 으로 SSH 서버 강화하기](https://www.lesstif.com/security/fail2ban-ssh)
 - [fail2ban Main Page](https://www.fail2ban.org/wiki/index.php/Main_Page)
 - [fail2ban setting with Ubuntu 14.04 LTS](http://dveamer.github.io/ubuntu/Ubuntu14.04LTS.html)
+
+
+## Web App Server 구축
+- [CentOS 7에서 Python WAS 구축하기 (Django, Nginx, Gunicorn)](http://dveamer.github.io/backend/PythonWAS.html)
 
