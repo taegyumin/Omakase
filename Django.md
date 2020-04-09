@@ -8,3 +8,9 @@
 - [[Django] 실시간 채팅 - Channels 튜토리얼 (2)](https://victorydntmd.tistory.com/262?category=703021)
 [Django App과 MySQL 연동하기](https://nachwon.github.io/database-mysql/)
 
+
+- [gunicorn vs uwsgi](https://devspark.tistory.com/entry/gunicorn-vs-uwsgi)
+- [NGINX Reverse Proxy](https://docs.nginx.com/nginx/admin-guide/web-server/reverse-proxy/)
+
+
+- [Django 정적 파일 기능 이해하기](https://blog.hannal.com/2015/04/start_with_django_webframework_06/)
