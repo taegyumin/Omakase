@@ -164,6 +164,7 @@
 - [Mac에서 Terminal로 SSH 연결하기](https://eunguru.tistory.com/122)
 - [리눅스 초보자가 익혀야 할 12가지 명령어](http://www.ciokorea.com/news/29239)
 - [cd 관련 명령어](https://shaeod.tistory.com/930)
+- [shutdown, reboot, logout](https://jhnyang.tistory.com/50)
 
 
 ## MongoDB
@@ -194,9 +195,22 @@
 - [백엔드가 이정도는 해줘야 함 - 11. 배포 자동화](https://velog.io/@city7310/백엔드가-이정도는-해줘야-함-11.-배포-자동화)
 - [CI (Continuous Integration) 이란?](http://www.nextree.co.kr/p10799/)
 
-## SSL 인증서
+
+## SSL
+
+### SSL 인증서
 - [gogotssl: 제일 싸다](https://www.gogetssl.com)
 
 
 ## Ruby On Rails
 - [RoR 공식 가이드](https://rubykr.github.io/rails_guides/active_record_querying.html)
+
+
+## SSH
+
+### SSH 보안 with FAIL2BAN
+- [FAIL2BAN으로 SSH서버 보안 강화하기](https://eungbean.github.io/2019/11/05/fail2ban/)
+- [fail2ban 으로 SSH 서버 강화하기](https://www.lesstif.com/security/fail2ban-ssh)
+- [fail2ban Main Page](https://www.fail2ban.org/wiki/index.php/Main_Page)
+- [fail2ban setting with Ubuntu 14.04 LTS](http://dveamer.github.io/ubuntu/Ubuntu14.04LTS.html)
+
