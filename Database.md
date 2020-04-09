@@ -11,6 +11,13 @@
 - [[프로그래머스] SQL 문제 모음집](https://programmers.co.kr/learn/challenges?tab=sql_practice_kit) 하루 날 잡아서 다 풀어봤는데, 기억 안 나는 문법 복습하기엔 괜찮은 문제들이다!
 - [DB 백업](https://kkamikoon.tistory.com/173)
 
+
+## SQL
+- [w3schools.com](https://www.w3schools.com/sql/default.asp)
+- [MySQL IF 문법](https://duveen.tistory.com/16)
+- [도서: real MySQL](https://book.naver.com/bookdb/book_detail.nhn?bid=6886962)
+
+
 ## Query 최적화
 - [우아한 Tech: DB Transaction Mechanism](https://www.youtube.com/watch?v=ImvYNlF_saE)
 - [운영체제 수준에서의 데이터베이스 성능 분석과 최적화](https://www.youtube.com/watch?v=QfBuEj0Vf4c)
