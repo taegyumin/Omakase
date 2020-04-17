@@ -58,5 +58,5 @@ pingpong(8)의 결과값은 6인데, 이는
 
 
 ## Code
-[code](eight-percent_pingpong/pingpong.py)
+[code](https://github.com/taegyumin/Omakase/blob/master/eight-percent_pingpong/pingpong.py)
 
