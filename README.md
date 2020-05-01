@@ -176,6 +176,10 @@
 ## Mac OS
 - [Mac OS 바탕화면에 바로가기 아이콘 만들기](https://m.blog.naver.com/PostView.nhn?blogId=artismart&logNo=221234545219&proxyReferer=https%3A%2F%2Fwww.google.com%2F)
 - [zsh 설치하기](https://thdev.tech/mac/2016/05/01/Mac-ZSH-Install/)
+- [맥린이를 위한 MacOS 개발 환경 설정법 - Part. 1](https://musma.github.io/2019/06/14/mac-os-dev-env-setting-1.html)
+- [[Mac] bash대신에 zsh 사용하기](https://m.blog.naver.com/PostView.nhn?blogId=ecker&logNo=220820740145&proxyReferer=https:%2F%2Fwww.google.com%2F)
+- [맥용 어플리케이션 추천](https://youngmind.tistory.com/entry/내가-설치한-맥용-어플리케이션들)
+- [Oh My ZSH+ iTerm2로 터미널을 더 강력하게](https://medium.com/harrythegreat/oh-my-zsh-iterm2로-터미널을-더-강력하게-a105f2c01bec)
 
 
 ## Toss 토스 API
