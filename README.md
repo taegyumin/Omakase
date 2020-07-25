@@ -163,6 +163,8 @@
 - [[Mac] bash대신에 zsh 사용하기](https://m.blog.naver.com/PostView.nhn?blogId=ecker&logNo=220820740145&proxyReferer=https:%2F%2Fwww.google.com%2F)
 - [맥용 어플리케이션 추천](https://youngmind.tistory.com/entry/내가-설치한-맥용-어플리케이션들)
 - [Oh My ZSH+ iTerm2로 터미널을 더 강력하게](https://medium.com/harrythegreat/oh-my-zsh-iterm2로-터미널을-더-강력하게-a105f2c01bec)
+- [MacOS .DS_Store 삭제 및 생성 방지](http://leechoong.com/posts/2018/ds_store/)
+- [MacOS .DS_Store 삭제 및 생성 방지 2](https://nine-hundred.github.io/Blog/DS_store%EA%B0%80-%EC%83%9D%EA%B8%B0%EB%8A%94-%EC%9D%B4%EC%9C%A0%EC%99%80-%EC%82%AD%EC%A0%9C%ED%95%98%EB%8A%94-%EB%B0%A9%EB%B2%95/)
 
 ## Toss 토스 API
 
