@@ -29,3 +29,9 @@
 - [Amazon DynamoDB Code Example](https://boto3.amazonaws.com/v1/documentation/api/latest/guide/dynamodb.html)
 - [AWS DynamoDB를 이용하여 비관계형 DB 구축하기 - (2) Inserting and retrieving data](https://velog.io/@kjh107704/AWS-DynamoDB를-이용하여-비관계형-DB-구축하기-2-Inserting-and-retrieving-data)
 - [3단계: Python으로 항목 생성, 읽기, 업데이트 및 삭제](https://docs.aws.amazon.com/ko_kr/amazondynamodb/latest/developerguide/GettingStarted.Python.03.html)
+
+## AWS Certification
+
+- [훌륭한 후기 글](https://goddaehee.tistory.com/194)
+- [AWS training](https://www.aws.training/)
+- [https://www.aws.training/Details/Curriculum?id=32442](https://www.aws.training/Details/Curriculum?id=32442)
