@@ -38,6 +38,7 @@
 - [RESTful API with KAKAO](https://www.opentutorials.org/module/4034/25000)
 - [REST API document](https://doc.uliege.cytomine.org/display/ALGODOC/Rest+API+documentation)
 - [그런 REST API로 괜찮은가](https://www.youtube.com/watch?v=RP_f5dMoHFc) REST API를 만들면서 이 'REST'라는 게 정확히 뭘까 궁금했는데, REST API의 학술적 정의와 역사에 대해 잘 정리해주신 콘텐츠다. 내가 만든 API는 엄밀히 말하면 REST API가 아니었다. HTTP API? 느슨한 REST API 정도...
+- [그런 REST API로 괜찮은가 - 발표자료](https://slides.com/eungjun/rest)
 
 ## FileZilla
 
@@ -210,3 +211,19 @@
 ## 백엔드 아키텍처
 
 - [Backend Architectures](https://gist.github.com/ngocphamm/5849994)
+
+## Kanban, Scrum, Lean, Agile
+
+- [[번역] 잘 가요 스크럼, 반가워요 칸반](https://medium.com/@pitzcarraldo/번역-잘-가요-스크럼-반가워요-칸반-e27d1db15699)
+
+## Colab
+
+- [Google Colab 사용하기](https://zzsza.github.io/data/2018/08/30/google-colab/#ui)
+
+## Pytorch
+
+- [Conda 가상 환경으로 PyTorch 설치하기](https://dreamgonfly.github.io/blog/conda-pytorch/)
+
+## 정보처리기사(산업기사)
+
+- [시나공 IT 기출](https://sinagong.gilbut.co.kr/it/search/index?keyword=2019%20정보처리기사%20실기기출문제)
