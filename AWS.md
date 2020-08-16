@@ -35,3 +35,23 @@
 - [훌륭한 후기 글](https://goddaehee.tistory.com/194)
 - [AWS training](https://www.aws.training/)
 - [https://www.aws.training/Details/Curriculum?id=32442](https://www.aws.training/Details/Curriculum?id=32442)
+
+## Glue
+
+- [AWS Glue를 이용한 파티션 데이터 처리](https://aws.amazon.com/ko/blogs/korea/work-with-partitioned-data-in-aws-glue/)
+
+## Athena
+
+- [AWS Docs - Athena](https://docs.aws.amazon.com/ko_kr/athena/latest/ug/what-is.html)
+
+## Pricing
+
+- [ELB 요금](https://aws.amazon.com/ko/elasticloadbalancing/pricing/)
+- [VPC 요금](https://aws.amazon.com/ko/vpc/pricing/)
+- [Fargate 요금](https://aws.amazon.com/fargate/pricing/?nc1=h_ls)
+- [API Gateway 요금](https://aws.amazon.com/ko/api-gateway/pricing/)
+- [CloudWatch 요금](https://aws.amazon.com/ko/cloudwatch/pricing/)
+- [SimpleDB & DataTransfer 요금](https://aws.amazon.com/simpledb/pricing/)
+- [S3 요금](https://aws.amazon.com/ko/s3/pricing/)
+- [DynamoDB 요금](https://aws.amazon.com/ko/dynamodb/pricing/)
+- [Lambda 요금](https://aws.amazon.com/ko/lambda/pricing/)
