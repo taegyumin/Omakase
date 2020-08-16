@@ -17,6 +17,7 @@
 - [w3schools.com](https://www.w3schools.com/sql/default.asp)
 - [MySQL IF 문법](https://duveen.tistory.com/16)
 - [도서: real MySQL](https://book.naver.com/bookdb/book_detail.nhn?bid=6886962)
+- [AWS Docs - SQL 명령](https://docs.aws.amazon.com/ko_kr/redshift/latest/dg/c_SQL_commands.html)
 
 ## Query 최적화
 
